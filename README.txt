@@ -1,2 +1,1 @@
-SRI
-GANESH
+|| SRI GANESH ||
